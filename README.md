@@ -1,62 +1,40 @@
-# Welcome to your Lovable project
+# Welcome to My **Angel Institute** Project! 
 
-## Project info
+## 📂 Project Information
+**URL:**  
+<angel-institute.vercel.app/L>
 
-**URL**: 
+---
 
-## How can I edit this code?
+## 🚀 How to Edit This Project
 
-There are several ways of editing your application.
+There are several ways you can edit and work on this project:
 
-**Use Lovable**
+### ✅ Use **Angel Institute**
+Visit the Angel Institute Project and start prompting to make changes.  
+All changes made via Angel Institute will be automatically committed to this repository.
 
-Simply visit the [Angel Institute Project]() and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+### ✅ Use Your Preferred IDE
 
-**Use your preferred IDE**
+If you want to work locally using your favorite editor, follow these steps:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
+- Install [Node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm).  
+  We recommend using [nvm (Node Version Manager)](https://github.com/nvm-sh/nvm) to easily manage Node.js versions.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Setup Steps
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install the required dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server with hot reload
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
